@@ -1,4 +1,5 @@
 # Programacion3
+
 Repositorio para las prácticas de Programación 3
 
 ## Curso 2014/2015
@@ -9,7 +10,7 @@ Práctica de programación orientada a objetos en lenguaje Java, implementada fu
 
 * **Lawrence Rider García** - *Programador* - [Larry](http://www.larryrider.es)
 
-Puedes ver también la lista de los [contribuidores](https://github.com/larryrider/PED/contributors) que han participado en este proyecto.
+Puedes ver también la lista de los [contribuidores](https://github.com/larryrider/Programacion3/contributors) que han participado en este proyecto.
 
 ## Licencia
 
